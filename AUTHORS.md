@@ -50,7 +50,7 @@ Other licenses can be found in the LICENSES directory.
 License
 =======
 
-pandas is distributed under a 3-clause ("Simplified" or "New") BSD
+Pandas is distributed under a 3-clause ("Simplified" or "New") BSD
 license. Parts of NumPy, SciPy, numpydoc, bottleneck, which all have
 BSD-compatible licenses, are included. Their licenses follow the pandas
 license.
